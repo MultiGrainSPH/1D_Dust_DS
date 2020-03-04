@@ -1,0 +1,39 @@
+	Initial data 
+1			// Variant (0 - gas, 1 - acoustic wave, 2 - acoustic-one dust)
+2			// Method (1 - MK, 2 - IDIC)
+1			// Length (cm)
+1500.0		// c0 (m/s)
+1.0			// c gas
+7.15		// Gamma liquid
+1.4			// Gamma gas
+1			// Pressure left
+0.1			// Pressure right
+600		// Number of gas partical
+5.0e-3		// Time step
+0.01		// h0
+2.0			// Time s
+1.0e-1		// Time  Interval
+0.5			// h_cell / h0
+1.0			// alfa
+2.0			// beta
+3			// Number of sort of dust
+1.0e-4		// Radius of dust particle 1
+0.3333			// masDust/masGas 1
+1.0e-4		// Radius of dust particle 2
+0.3333			// masDust/masGas 2
+1.0e-2		// Radius of dust particle 3
+0.3333			// masDust/masGas 3
+1.0e-5		// Radius of dust particle 4
+0.5			// masDust/masGas 4
+1.0e1		// Radius of dust particle 5
+1.0			// masDust/masGas 5
+1.0e-3		// Radius of dust particle 6
+1.0			// masDust/masGas 6
+1.0e-3		// Radius of dust particle 7
+1.0			// masDust/masGas 7
+1.0e-3		// Radius of dust particle 8
+1.0			// masDust/masGas 8
+1.0e-3		// Radius of dust particle 9
+1.0			// masDust/masGas 9
+1.0e-3		// Radius of dust particle 10
+1.0			// masDust/masGas 10
